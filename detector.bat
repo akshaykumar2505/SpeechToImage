@@ -1,0 +1,1 @@
+"C:\Users\akshay\Programs\Python\python.exe" custom_keyword_speech_detector.py
